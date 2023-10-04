@@ -39,3 +39,5 @@ The first part of the project is dedicated to analyzing the relationships betwee
 * to delete instances from the majority class (undersampling);
 * to duplicate examples from the minority class (oversampling);
 * SMOTENC, i.e. an extension of the Synthetic Minority Oversampling Technique (SMOTE) that can be used also in the presence of categorical data among the features.
+
+NOTE: I suggest to open the notebook with nbviewer at this link: https://nbviewer.org/github/CrisLap/Cross-selling-project/blob/main/Cross%20Selling%20Project.ipynb 
